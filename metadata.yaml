@@ -31,6 +31,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Basil_Lanneau_Gildersleeve
 description: The text of this edition of Persius is, in the main, that of Jahn's last
   recension (1868)--Pref.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22119#The-Satires-of-A.-Persius-Flaccus
 gutenberg_issued: '2007-07-22'
 gutenberg_type: Text
 identifiers:
